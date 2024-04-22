@@ -4,5 +4,3 @@ pandas
 PyPDF2
 langchain
 streamlit
-dotenv
-transformers
