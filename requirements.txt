@@ -4,3 +4,4 @@ pandas
 PyPDF2
 langchain
 streamlit
+langchain_google_genai
