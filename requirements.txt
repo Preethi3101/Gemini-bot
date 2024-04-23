@@ -1,6 +1,0 @@
-numpy
-tensorflow
-pandas
-PyPDF2
-langchain
-streamlit
